@@ -67,8 +67,7 @@ Below are some example visualizations generated from this project:
 
 | Visualization | Description |
 |----------------|-------------|
-| ![Rating Distribution](images/rating_distribution.png) | Distribution of restaurant ratings |
-| ![Online Order Impact](images/online_order_vs_rating.png) | Ratings comparison for restaurants offering online orders |
+| ![Rating Distribution](images/rating_distribution.png) | Distribution of Top 10 famous restaurant with ratings |
 | ![Top Locations](images/top_locations.png) | Top 10 restaurant locations in Bangalore |
 | ![Restaurant Types](images/restaurant_types.png) | Top-rated restaurant types |
 
