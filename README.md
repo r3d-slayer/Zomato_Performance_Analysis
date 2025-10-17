@@ -67,7 +67,7 @@ Below are some example visualizations generated from this project:
 
 | Visualization | Description |
 |----------------|-------------|
-| ![Rating Distribution](./images/rating_distribution.png) | Distribution of Top 10 famous restaurant with ratings |
+| ![Rating Distribution](https://github.com/r3d-slayer/Zomato_Performance_Analysis/blob/e8f7ae4a551a987c71aea0ee19ec6bb726da33e8/images/rating%20distribution.png) | Distribution of Top 10 famous restaurant with ratings |
 | ![Top Locations](./images/top_locations.png) | Top 10 restaurant locations in Bangalore |
 | ![Restaurant Types](./images/restaurant_types.png) | Top-rated restaurant types |
 
