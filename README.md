@@ -69,7 +69,7 @@ Below are some example visualizations generated from this project:
 |----------------|-------------|
 | ![Rating Distribution](https://github.com/r3d-slayer/Zomato_Performance_Analysis/blob/e8f7ae4a551a987c71aea0ee19ec6bb726da33e8/images/rating%20distribution.png) | Distribution of Top 10 famous restaurant with ratings |
 | ![Top Locations](https://github.com/r3d-slayer/Zomato_Performance_Analysis/blob/313019565152599d570529f1b9bb47ae623dba29/images/top%20locations.png) | Top 10 restaurant locations in Bangalore |
-| ![Restaurant Types](https://github.com/r3d-slayer/Zomato_Performance_Analysis/blob/313019565152599d570529f1b9bb47ae623dba29/images/restaurant%20types.png) | Top-rated restaurant types |
+| ![Restaurant Types](https://github.com/r3d-slayer/Zomato_Performance_Analysis/blob/9cd7fb4c679dd3eaa6f0ea365c8aab3a67847334/images/restaurant%20type.png) | Top 10 restaurant types |
 
 *(Place your output plots in an `images/` folder inside the repository.)*
 
