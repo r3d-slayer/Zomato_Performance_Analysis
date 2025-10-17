@@ -67,9 +67,9 @@ Below are some example visualizations generated from this project:
 
 | Visualization | Description |
 |----------------|-------------|
-| ![Rating Distribution](/images/rating_distribution.png) | Distribution of Top 10 famous restaurant with ratings |
-| ![Top Locations](/images/top_locations.png) | Top 10 restaurant locations in Bangalore |
-| ![Restaurant Types](/images/restaurant_types.png) | Top-rated restaurant types |
+| ![Rating Distribution](./images/rating_distribution.png) | Distribution of Top 10 famous restaurant with ratings |
+| ![Top Locations](./images/top_locations.png) | Top 10 restaurant locations in Bangalore |
+| ![Restaurant Types](./images/restaurant_types.png) | Top-rated restaurant types |
 
 *(Place your output plots in an `images/` folder inside the repository.)*
 
