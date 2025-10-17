@@ -86,9 +86,9 @@ Below are some example visualizations generated from this project:
 
 ## 🏷️ Author
 
-**[Your Name]**  
+**Shivam Tanwar**  
 Frontend Developer & Data Analyst  
-📧 [your.email@example.com]  
+📧 tanwarshivam49@gmail.com  
 🌐 [LinkedIn or Portfolio link]
 
 ---
