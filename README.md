@@ -89,6 +89,5 @@ Below are some example visualizations generated from this project:
 **Shivam Tanwar**  
 Frontend Developer & Data Analyst  
 📧 tanwarshivam49@gmail.com  
-🌐 [LinkedIn or Portfolio link]
 
 ---
